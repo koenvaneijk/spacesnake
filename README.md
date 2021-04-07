@@ -63,7 +63,7 @@ spacesnake push my_script.py -y
 ```
 You can then run the script:
 ```bash
-spacesnake QmPzrKNqpMVypixkQDVAQc8MeF8PTuKtnwr91hfE3DAJ6j
+spacesnake script QmPzrKNqpMVypixkQDVAQc8MeF8PTuKtnwr91hfE3DAJ6j
 ```
 
 ## To do
